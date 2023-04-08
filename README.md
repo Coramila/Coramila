@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedora Front-End com foco em inovação.
-- 🌱 Atualmente estou desenvolvendo habilidades utilizando Vue.js.
+- 🌱 Atualmente estou fazendo projetos com Vue.js.
 - 📫 Contate-me no e-mail: carvalho.camiilaa@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Sou entusiasta de histórias de fantasia, fã de carteirinha de Harry Potter e colecionadora de jogos de tabuleiro.
